@@ -1,0 +1,98 @@
+boas praticas na programação:
+
+1) Documentação
+/**
+* descrição do codigo 
+* @author nome do autor do codigo 
+* @link https://...
+*/
+
+2)codigo limpo
+-não abusar de comentario
+
+3) Nomeação
+   - Não usar caracteres especiais, espaço e acentos
+   - Nomes de arquivos,variaveis,funções devem ser escrito com a primeira letra em caixa baixa (letra minúscula),iniciar com caixa alta
+   (letra maiúscula) apenas em 
+   -Definir nomes que tenham relação com o problema a ser resolvido.
+
+ 4) alinhamento (identação de codigo)
+
+ 5) Quanto menos codigo usado melhor para o problema melhor!
+
+_________________________________________________________________________
+comandos de terminal:
+
+cls ou clear (limpar a tela do terminal)
+node -v (exibe a versão do node)
+cd pasta (entrar na pasta)
+cd .. (voltar um nivel )
+dir ou pwd (listar os arquivos de diretorio)
+node arquivos.js (execultar um arquivo javascript)
+seta para cima(repete os comandos)
+
+_________________________________________________________________________
+vsCode: Dicas 
+Combinasão de teclas <alt><shift><f> //alinhamento
+
+
+_________________________________________________________________________
+javascript:
+
+caracteristicas:
+-sentenças e não linhas de códigos
+- ; é opcional 
+console.clear() //limpar a tela do console
+console.log () //escrever no console
+// comentario de linhas
+podemos usar aspas " " ou ' '
+não podemos usar aspas diferentes " ' ou ' "
+dica: usar em "textos" aspas 
+      usar em bibliotecas ou caminhos 'apóstrofo'
+
+____________________________________________________________________
+Operadores:
+
+Observações:
+ - Regra de precedencia
+ - % (não calcula porcetagem e sim o resto da divisão)
+ Ex:
+     |  3
+ 10  |_____
+  1    3
+
+  10 % 3 //resultado é 1
+
+
+
+  Comparadores de igualdade:
+  NÂO USAR == !=
+
+  Operadores logicos:
+  dica:
+  Professorjosedeassis.github.io/simulador
+
+__________________________________________________________
+
+  estudo das variaveis
+  - strings (caracteres)
+  -numericas (numeros)
+  -booleanas (verdadeiro ou falso0)
+  
+  OBS: No JS as variaveis são dinamicamente tipadas
+  Const:(criar uma constante)
+  var ou let:(criar uma variavel)
+  
+  ATENÇÂO!!! não usa o VAR 
+
+  ____________________________________________________________________
+  github
+Material de apoio https://www.youtube.com/@ProfessorJosedeAssis/playlists
+
+Configurando o git
+ - intalar o git
+Abrir o git bash 
+git config --global usar.name "seu nome"
+git config --global user.email "vitorbalbino1505@gmail.com"
+
+git clone link do repositorio(clonar repositorio da maquina local)
